@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Thrusha Sahu</h1>
 <h3 align="center">I'am enthusiastic of open source projects. Currently I'm learning kubernates in DevOps.I'm aspring to DevOps and cloud related role.I'm looking forward to collaborate with other projects.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a8/f2/38/a8f2381ca6c6b03d6b476f554eb59167.jpg”>
 - 🔭 I’m currently working on [CI/CD Pipeline]
 
 - 🌱 I’m currently learning **Kubernetes and CI/CD Pipeline**
